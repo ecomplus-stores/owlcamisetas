@@ -26,6 +26,11 @@
       "alt": "Secure connection",
       "width": 150,
       "height": 62
+    },
+    {
+      "src": "/img/uploads/selo-troquecommerce.png",
+      "link": "",
+      "alt": ""
     }
   ],
   "payment_methods": {

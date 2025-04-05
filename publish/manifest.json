@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ec5195b86e8e9fee74c60d9aabbe8b69.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d0e2e53de36f0bac77a1e36b3bd8bb22.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9f6c19c41708bd90744e7ed7ed35505a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.ff075731a16f4295ed509141f7972ef7.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a6cc81913411fe6c21901615a2620613.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "OWL",
+  "short_name": "owlcamisetas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "OWL é uma marca de camisetas básicas premium feita no Brasil, com mais de 30 anos de tradição. Trabalhamos com algodão 100% nacional e modelagens atemporais que valorizam o essencial: qualidade, conforto e durabilidade.",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
